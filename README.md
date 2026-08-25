@@ -1,4 +1,4 @@
-# ITA_Application
+# ITA Application
 Directory containing the coding samples for the ITA post-doc application
 
 
