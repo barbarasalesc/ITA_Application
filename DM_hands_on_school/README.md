@@ -11,4 +11,4 @@ Below is a description of each script and its role in the activity:
 
 - trace-view.C: A visualization tool that plots the trace of an individual event, allowing students to inspect any specific event of their choice in detail.
 
-- fprompt-analizer.C: Performs the core PSD optimization analysis. It uses a Figure of Merit (FoM) method to optimize the short and long charge integration time windows, providing the best discrimination between photon and neutron events.
+- fprompt-analizer.C: Calculates the Pulse Shape Discrimination (PSD) parameter (fprompt)for short and long charge integration time windows of choice. This allows students to evaluate how different time window configurations impact the discrimination power between photon and neutron events.
