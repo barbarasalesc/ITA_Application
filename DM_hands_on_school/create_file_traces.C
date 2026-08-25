@@ -8,7 +8,7 @@ double GetEnergy(int ipsci, double Q )
 {
   if ( ipsci <0  || ipsci >17 ) return UNDEF;
 
-  const double EnergyConstant_PSci_250sa[18]={  // Done by Maximo for wlong=250 with Am241 (ADC/energy)
+  const double EnergyConstant_PSci_250sa[18]={  // Done with Am241 (ADC/energy)
     18.918,18.780,19.016,     20.144,18.200,17.296,       18.422,18.828,19.309,
     20.382,18.401,16.948,     17.909,22.833,15.586,       17.625,19.092,19.800  };
 
