@@ -7,8 +7,6 @@ Below is a description of each script and its role in the activity:
 
 - create_file_traces.C: Extracts a custom "toy dataset" from the full ReD 252-Cf dataset. It filters and outputs only the relevant information required for the students to perform the PSD analysis.
 
-- traceprofile.C: An analytical solution that computes the mean trace profile of the events. It allows students to observe electronic phenomena, such as signal reflection.
-
 - trace-view.C: A visualization tool that plots the trace of an individual event, allowing students to inspect any specific event of their choice in detail.
 
 - fprompt-analizer.C: Calculates the Pulse Shape Discrimination (PSD) parameter (fprompt)for short and long charge integration time windows of choice. This allows students to evaluate how different time window configurations impact the discrimination power between photon and neutron events.
